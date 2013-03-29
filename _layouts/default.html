@@ -30,13 +30,14 @@
         </p>
 
         <p>
-		{% for p in site.pages %}
-			{% if p.url != page.url %}<a href="{{ p.url }}">{% endif %}{{ p.title }}{% if p.url != page.url %}</a>{% endif %}<br>
+		{% for p in site.pages reversed %}
+			{% if p.url != page.url %}<a href="{{ p.url }}">{{ p.title }}</a><br>{% endif %}
 		{% endfor %}
 		</p>
 
       </header>
       <section>
+      	<h1>{{ page.title }}</h1>
 		{{ content }}
       </section>
       <footer>

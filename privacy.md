@@ -2,9 +2,6 @@
 layout: default
 title: Privacy Policy
 ---
-Privacy Policy
-==============
-
 At Indigo, we collect and manage user data according to the following Privacy Policy, with a commitment to ensuring that your privacy is protected. Any information that you provide us with will be used only in accordance with this statement.
 
 In short, we don't store your Dropbox or Chrome passwords. We only have access to the files and bookmarks that you store in the 'Indigo' folder in Drobox and Chrome respectively. We don't retain the contents of your files, except for extracts intended to help you remind you of the contents of documents. We use cookies only to maintain your login session.
