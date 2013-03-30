@@ -3,13 +3,14 @@
   <head>
     <meta charset="utf-8">
     <title>Indigo</title>
-
     <link rel="stylesheet" href="stylesheets/styles.css">
     <style>
-	body {
-		color: #444;
-	}
-	</style>
+      body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color: #333;
+      }
+    </style>
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -21,18 +22,18 @@
       <header>
         <a href="https://indigodb.com"><h1>Indigo</h1></a>
         <p class="view">
-        	<a href="mailto:help@indigodb.com">help@indigodb.com</a><br>
-        	Twitter <a href="https://twitter.com/IndigoDB">@IndigoDB</a>
+          <a href="mailto:help@indigodb.com">help@indigodb.com</a><br>
+          Twitter <a href="https://twitter.com/IndigoDB">@IndigoDB</a>
         </p>
         <p>
-		{% for p in site.pages reversed %}
-			{% if p.url != page.url %}<a href="{{ p.url }}">{{ p.title }}</a><br>{% endif %}
-		{% endfor %}
-		</p>
+          {% for p in site.pages reversed %}
+          {% if p.url != page.url %}<a href="{{ p.url }}">{{ p.title }}</a><br>{% endif %}
+          {% endfor %}
+        </p>
       </header>
       <section>
       	<h1>{{ page.title }}</h1>
-		{{ content }}
+        {{ content }}
       </section>
       <footer>
         <p><small></small></p>
