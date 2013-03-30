@@ -27,7 +27,7 @@
         </p>
         <p>
           {% for p in site.pages reversed %}
-          {% if p.url != page.url %}<a href="{{ p.url }}">{{ p.title }}</a><br>{% endif %}
+            {% if p.url != page.url %}<a href="{{ p.url }}">{{ p.title }}</a><br>{% endif %}
           {% endfor %}
         </p>
       </header>
