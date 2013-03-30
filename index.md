@@ -8,4 +8,4 @@ For example: if you collect a set of articles about malaria then Indigo can auto
 
 Indigo works behind the scenes, so whenever you’re online and save a file to your Dropbox or bookmark a page in Chrome the index is updated automatically, with no manual configuration or annotation required. However, you can add tags and favourites, and browse everything on our website – making it even easier to find things when you need them.
 
-To use Indigo visit [indigodb.com](https://indigodb.com)
+To get started either [sign up](http://goo.gl/iZ9M5) or [log in](https://indigodb.com/)
