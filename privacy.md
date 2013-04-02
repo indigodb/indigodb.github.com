@@ -2,9 +2,9 @@
 layout: default
 title: Privacy Policy
 ---
-At Indigo, we collect and manage user data according to the following Privacy Policy, with a commitment to ensuring that your privacy is protected. Any information that you provide us with will be used only in accordance with this statement.
+We collect and manage user data according to the following Privacy Policy, with a commitment to ensuring that your privacy is protected. Any information that you provide us with will be used only in accordance with this statement.
 
-In short, we don't store your Dropbox or Chrome passwords. We only have access to the files and bookmarks that you store in the 'Indigo' folder in Drobox and Chrome respectively. We don't retain the contents of your files, except for extracts intended to help you remind you of the contents of documents. We use cookies only to maintain your login session.
+In summary: we don't store your Dropbox or Chrome passwords. When indexing your file and bookmarks we only read the 'Indigo' folder in Dropbox and Chrome respectively. We don't retain the contents of your files, except for extracts intended to help you remind you of the contents of documents. We use cookies only to maintain your login session.
 
 This document is part of Indigo's Terms of Service, and by using indigodb.com (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.
 
@@ -49,6 +49,6 @@ Changes to the Privacy Policy
 
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make major changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
 
-This policy is effective from March 22, 2013.
+This policy is effective from April 2, 2013.
 
-Should you have any questions or concerns, please email help@indigodb.com.
+Should you have any questions or concerns please email help@indigodb.com.
