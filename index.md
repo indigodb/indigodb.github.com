@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About Indigo
 ---
 Indigo indexes your files, bookmarks and tweets to help you keep track of your research and discover relevant articles, datasets and people. So every time you bookmark a gene, tweet about a paper or store a document Indigo learns more about your research.
 
